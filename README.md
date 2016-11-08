@@ -1,5 +1,4 @@
 # Blackjack-Game-
-These program codes the game blackjack in java:
 
 I approached this assignment from the micro level to the macro level
 The card class was the easiest to implement and was straight forward.
