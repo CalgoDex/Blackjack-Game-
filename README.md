@@ -1,6 +1,6 @@
 # Blackjack-Game-
 
-I approached this assignment from the micro level to the macro level
+I approached this project from the micro level to the macro level
 The card class was the easiest to implement and was straight forward.
 The deck class simply created every unique instance of my card class and then
 put them into an array. None of the methods in the deck class were especially
